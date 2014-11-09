@@ -1,0 +1,19 @@
+29.053  prolog
+22.147  smalltalk
+16.967  clisp
+13.793  jython
+9.900   ocamlc
+6.443   python2
+5.623   python3
+3.520   ruby
+2.807   scala
+2.727   clisp (.fas)
+1.770   java
+0.950   csharp
+0.860   ocamlopt
+0.680   runhaskell
+0.663   c++
+0.420   haskell
+0.403   haskell O2
+0.347   c++ O2
+0.337   c++ O3
